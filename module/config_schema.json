@@ -1,0 +1,16 @@
+{
+	"type": "object",
+	"additionalProperties": false,
+	"properties": {
+		"android_api_key": {
+			"description": "Android API key provided by Flurry",
+			"required": false,
+			"type": "string"
+		},
+		"ios_api_key": {
+			"description": "iOS API key provided by Flurry",
+			"required": false,
+			"type": "string"
+		}
+	}
+}
