@@ -1,6 +1,7 @@
 {
     "changes": "- fix `customEvent` crashing bug when a string was passed as the event value: fail early and obviously in that situation", 
     "description": "Track usage of your app with Flurry.\n\nThe flurry module integrates your app with the Flurry SDK and allows you access to various SDK methods to take advantage of Flurry's app analytics.", 
+    "min_platform_version": "v2.1.0", 
     "name": "flurry", 
     "platform_version": "v2.1.0", 
     "version": "2.3"
