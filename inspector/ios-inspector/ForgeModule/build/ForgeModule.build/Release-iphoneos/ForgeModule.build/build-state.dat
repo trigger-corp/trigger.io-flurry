@@ -1,470 +1,0 @@
-TForgeModule
-v6
-r1
-cCheck dependencies
-cProcessPCH /var/folders/3g/vkmfzgzn1fb2v1_0msrrmqqr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/5.0-5A1412/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-frkscdoslfmgeieyogdhojqijyew/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cProcessPCH /var/folders/3g/vkmfzgzn1fb2v1_0msrrmqqr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/5.0-5A1412/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-cptpxygpctnvqxhapkdjpsdnaufm/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/flurry_API.o /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/flurry_API.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/flurry_EventListener.o /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/flurry_EventListener.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/flurry_EventListener.o /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/flurry_EventListener.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/flurry_API.o /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/flurry_API.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLibtool /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/libForgeModule.a normal armv7
-cLibtool /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/libForgeModule.a normal armv7s
-cCreateUniversalBinary /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/libForgeModule.a normal armv7\ armv7s
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk
-c0000000051E63EBB0000000000000110
-t1374043835
-s272
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
-c00000000510A55C7000000000003AE00
-t1359631815
-s241152
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c00000000510A55C80000000000322700
-t1359631816
-s3286784
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c00000000510A55C8000000000062AD10
-t1359631816
-s6466832
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
-c00000000510A55C900000000000CAFB0
-t1359631817
-s831408
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c00000000510A55CA00000000011BCDF0
-t1359631818
-s18599408
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk
-c00000000521BCCE10000000000000110
-t1377553633
-s272
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/SDKSettings.plist
-c00000000522ACBFD000000000000036B
-t1378536445
-s875
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/CoreServices/SystemVersion.plist
-c00000000522ACC01000000000000019E
-t1378536449
-s414
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
-c00000000522ACC050000000000076920
-t1378536453
-s485664
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c00000000522ACC0900000000004D6390
-t1378536457
-s5071760
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c00000000522ACC0D0000000000A8EAD0
-t1378536461
-s11070160
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
-c00000000522ACC1500000000001A2270
-t1378536469
-s1712752
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c00000000522ACC190000000002597C70
-t1378536473
-s39418992
-
-N/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/ForgeCore
-c00000000523B0112000000000055CECC
-t1379598610
-s5623500
-
-N/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/../ForgeCore.framework/ForgeCore
-c00000000520B8890000000000055CECC
-t1376487568
-s5623500
-
-N/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/Flurry.h
-c00000000520AF13800000000000067F3
-t1376448824
-s26611
-
-N/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch
-c0000000051C99C000000000000000159
-t1372167168
-s345
-
-N/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/ForgeModule.LinkFileList
-c00000000520B8A3A000000000000014E
-t1376487994
-s334
-
-N/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/flurry_API.o
-t1379598991
-s52312
-
-N/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/flurry_EventListener.o
-t1379598991
-s55912
-
-N/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/libForgeModule.a
-t1379598991
-s721112
-
-N/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/ForgeModule.LinkFileList
-c00000000520B8A3A0000000000000150
-t1376487994
-s336
-
-N/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/flurry_API.o
-t1379598991
-s52312
-
-N/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/flurry_EventListener.o
-t1379598991
-s55912
-
-N/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/libForgeModule.a
-t1379598991
-s720960
-
-N/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/libForgeModule.a
-t1379438271
-s1442120
-
-N/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/flurry_API.h
-c0000000051C99C000000000000000227
-t1372167168
-s551
-
-N/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/flurry_API.m
-c00000000520B837E00000000000009C5
-t1376486270
-s2501
-
-N/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/flurry_EventListener.h
-c0000000051C99C0000000000000000F9
-t1372167168
-s249
-
-N/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/flurry_EventListener.m
-c0000000051C99C0000000000000001D9
-t1372167168
-s473
-
-N/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/libFlurry_4.2.3.a
-c00000000520AF1380000000000231508
-t1376448824
-s2299144
-
-N/var/folders/3g/vkmfzgzn1fb2v1_0msrrmqqr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/5.0-5A1412/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-cptpxygpctnvqxhapkdjpsdnaufm/ForgeModule-Prefix.pch.pch
-t1379598991
-s5705344
-
-N/var/folders/3g/vkmfzgzn1fb2v1_0msrrmqqr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/5.0-5A1412/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-ensbcayrdoqtuketydltqmoehlkn/ForgeModule-Prefix.pch.pch
-t1379438271
-s5704168
-
-N/var/folders/3g/vkmfzgzn1fb2v1_0msrrmqqr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/5.0-5A1412/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-frkscdoslfmgeieyogdhojqijyew/ForgeModule-Prefix.pch.pch
-t1379598991
-s5705224
-
-N/var/folders/3g/vkmfzgzn1fb2v1_0msrrmqqr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/5.0-5A1412/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-heteuspxeevzazcyltotqcmcqddj/ForgeModule-Prefix.pch.pch
-t1379438271
-s5704048
-
-N/var/folders/3g/vkmfzgzn1fb2v1_0msrrmqqr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ForgeModule-Prefix-cooqtplwxyxcvmalkbthtluskumh/ForgeModule-Prefix.pch.pth
-t2
-s0
-
-N/var/folders/3g/vkmfzgzn1fb2v1_0msrrmqqr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ForgeModule-Prefix-dhscipvdbbadrmcfyigbunivbvlq/ForgeModule-Prefix.pch.pth
-t2
-s0
-
-CCheck dependencies
-r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies04751a0f3aebb741^13f2290f3aebb741^---0#1#1#--18"Check dependencies36"53631348-2B4C-4628-9549-D2EF15FFC725-
-
-CCompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/flurry_API.o /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/flurry_API.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s401291791.752437
-e401291791.838386
-r1
-xCompileC
-xbuild/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/flurry_API.o
-x/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/flurry_API.m
-xnormal
-xarmv7
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/flurry_API.m
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/flurry_API.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/Flurry.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/flurry_API.m183"CompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/flurry_API.o flurry_API.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler75e4c00f3aebb741^cba0d60f3aebb741^---0#0#1#-19%DVTDocumentLocation2@97"file://localhost/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/flurry_API.m0000000000000000^4763"CompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/flurry_API.o flurry_API.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -miphoneos-version-min=4.3 -I/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/ForgeModule.hmap -I/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/include -I. -Ibuild -Ibuild/ForgeModule.build -Ibuild/Release-iphoneos -Ibuild/Release-iphonesimulator -Ibuild/ForgeModule.build/Release-iphoneos -Ibuild/ForgeModule.build/Release-iphonesimulator -Ibuild/ForgeModule.build/Release-iphoneos/ForgeModule.build -Ibuild/ForgeModule.build/Release-iphoneos/ForgeModuleResources.build -Ibuild/ForgeModule.build/Release-iphonesimulator/ForgeModule.build -Ibuild/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal -Ibuild/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal -Ibuild/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7 -Ibuild/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s -Ibuild/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386 -I/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources/armv7 -I/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources -F/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/Release-iphoneos -F/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule -F/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/.. -include /var/folders/3g/vkmfzgzn1fb2v1_0msrrmqqr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/5.0-5A1412/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-frkscdoslfmgeieyogdhojqijyew/ForgeModule-Prefix.pch -MMD -MT dependencies -MF /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/flurry_API.d --serialize-diagnostics /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/flurry_API.dia -c /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/flurry_API.m -o /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/flurry_API.o36"E2F3C94C-EC5C-4A79-8DFD-2186AF9934D7-
-b11935DC2-A128-412B-8621-1416C6DE443A
-
-CCompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/flurry_EventListener.o /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/flurry_EventListener.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s401291791.752440
-e401291791.817684
-r1
-xCompileC
-xbuild/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/flurry_EventListener.o
-x/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/flurry_EventListener.m
-xnormal
-xarmv7
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/flurry_EventListener.m
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/flurry_EventListener.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/Flurry.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/flurry_EventListener.m203"CompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/flurry_EventListener.o flurry_EventListener.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler5dfdc00f3aebb741^0054d10f3aebb741^---0#0#1#-19%DVTDocumentLocation2@107"file://localhost/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/flurry_EventListener.m0000000000000000^4823"CompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/flurry_EventListener.o flurry_EventListener.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -miphoneos-version-min=4.3 -I/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/ForgeModule.hmap -I/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/include -I. -Ibuild -Ibuild/ForgeModule.build -Ibuild/Release-iphoneos -Ibuild/Release-iphonesimulator -Ibuild/ForgeModule.build/Release-iphoneos -Ibuild/ForgeModule.build/Release-iphonesimulator -Ibuild/ForgeModule.build/Release-iphoneos/ForgeModule.build -Ibuild/ForgeModule.build/Release-iphoneos/ForgeModuleResources.build -Ibuild/ForgeModule.build/Release-iphonesimulator/ForgeModule.build -Ibuild/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal -Ibuild/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal -Ibuild/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7 -Ibuild/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s -Ibuild/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386 -I/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources/armv7 -I/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources -F/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/Release-iphoneos -F/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule -F/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/.. -include /var/folders/3g/vkmfzgzn1fb2v1_0msrrmqqr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/5.0-5A1412/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-frkscdoslfmgeieyogdhojqijyew/ForgeModule-Prefix.pch -MMD -MT dependencies -MF /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/flurry_EventListener.d --serialize-diagnostics /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/flurry_EventListener.dia -c /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/flurry_EventListener.m -o /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/flurry_EventListener.o36"68BE0833-24C4-4CF1-8C32-EE30322CC467-
-b11935DC2-A128-412B-8621-1416C6DE443A
-
-CCompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/flurry_API.o /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/flurry_API.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s401291791.752458
-e401291791.833541
-r1
-xCompileC
-xbuild/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/flurry_API.o
-x/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/flurry_API.m
-xnormal
-xarmv7s
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/flurry_API.m
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/flurry_API.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/Flurry.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/flurry_API.m185"CompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/flurry_API.o flurry_API.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler76fbc00f3aebb741^8863d50f3aebb741^---0#0#1#-19%DVTDocumentLocation2@97"file://localhost/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/flurry_API.m0000000000000000^4770"CompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/flurry_API.o flurry_API.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -miphoneos-version-min=4.3 -I/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/ForgeModule.hmap -I/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/include -I. -Ibuild -Ibuild/ForgeModule.build -Ibuild/Release-iphoneos -Ibuild/Release-iphonesimulator -Ibuild/ForgeModule.build/Release-iphoneos -Ibuild/ForgeModule.build/Release-iphonesimulator -Ibuild/ForgeModule.build/Release-iphoneos/ForgeModule.build -Ibuild/ForgeModule.build/Release-iphoneos/ForgeModuleResources.build -Ibuild/ForgeModule.build/Release-iphonesimulator/ForgeModule.build -Ibuild/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal -Ibuild/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal -Ibuild/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7 -Ibuild/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s -Ibuild/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386 -I/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources/armv7s -I/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources -F/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/Release-iphoneos -F/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule -F/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/.. -include /var/folders/3g/vkmfzgzn1fb2v1_0msrrmqqr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/5.0-5A1412/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-cptpxygpctnvqxhapkdjpsdnaufm/ForgeModule-Prefix.pch -MMD -MT dependencies -MF /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/flurry_API.d --serialize-diagnostics /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/flurry_API.dia -c /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/flurry_API.m -o /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/flurry_API.o36"642C205C-B7E6-464D-8022-DE06E05F51A3-
-b11935DC2-A128-412B-8621-1416C6DE443A
-
-CCompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/flurry_EventListener.o /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/flurry_EventListener.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s401291791.752452
-e401291791.815845
-r1
-xCompileC
-xbuild/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/flurry_EventListener.o
-x/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/flurry_EventListener.m
-xnormal
-xarmv7s
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/flurry_EventListener.m
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/flurry_EventListener.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/Flurry.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/flurry_EventListener.m205"CompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/flurry_EventListener.o flurry_EventListener.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler6afac00f3aebb741^bedbd00f3aebb741^---0#0#1#-19%DVTDocumentLocation2@107"file://localhost/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/flurry_EventListener.m0000000000000000^4830"CompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/flurry_EventListener.o flurry_EventListener.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -miphoneos-version-min=4.3 -I/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/ForgeModule.hmap -I/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/include -I. -Ibuild -Ibuild/ForgeModule.build -Ibuild/Release-iphoneos -Ibuild/Release-iphonesimulator -Ibuild/ForgeModule.build/Release-iphoneos -Ibuild/ForgeModule.build/Release-iphonesimulator -Ibuild/ForgeModule.build/Release-iphoneos/ForgeModule.build -Ibuild/ForgeModule.build/Release-iphoneos/ForgeModuleResources.build -Ibuild/ForgeModule.build/Release-iphonesimulator/ForgeModule.build -Ibuild/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal -Ibuild/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal -Ibuild/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7 -Ibuild/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s -Ibuild/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386 -I/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources/armv7s -I/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources -F/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/Release-iphoneos -F/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule -F/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/.. -include /var/folders/3g/vkmfzgzn1fb2v1_0msrrmqqr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/5.0-5A1412/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-cptpxygpctnvqxhapkdjpsdnaufm/ForgeModule-Prefix.pch -MMD -MT dependencies -MF /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/flurry_EventListener.d --serialize-diagnostics /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/flurry_EventListener.dia -c /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/flurry_EventListener.m -o /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/flurry_EventListener.o36"8CFC053F-993C-4DE3-8CA6-102A4FB8B043-
-b11935DC2-A128-412B-8621-1416C6DE443A
-
-CCreateUniversalBinary /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/libForgeModule.a normal "armv7 armv7s"
-s398180795.470657
-e398180795.507008
-r1
-xCreateUniversalBinary
-x/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/libForgeModule.a
-xnormal
-xarmv7 armv7s
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"Create universal binary /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/libForgeModule.a70d278bbc1bbb741^b0ca81bbc1bbb741^---0#0#0#-19%DVTDocumentLocation2@124"file://localhost/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/libForgeModule.a000000000080d041^1721"CreateUniversalBinary build/Release-iphoneos/libForgeModule.a normal "armv7 armv7s"    cd /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/local/share/python:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/MacGPG2/bin:/Users/james/.rvm/bin:/Applications/android-sdk-macosx/platform-tools:/Users/james/.bin:/usr/local/go/bin"    libtool -static /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/libForgeModule.a /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/libForgeModule.a -o /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/libForgeModule.a36"A2A700C2-9902-4B51-BF83-402C2EF49479-
-
-CCreateUniversalBinary /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/libForgeModule.a normal armv7\ armv7s
-s401291791.872733
-e401291791.899497
-r1
-xCreateUniversalBinary
-x/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/libForgeModule.a
-xnormal
-xarmv7 armv7s
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"Create universal binary /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/libForgeModule.a82"CreateUniversalBinary build/Release-iphoneos/libForgeModule.a normal armv7\ armv7scaa7df0f3aebb741^dc47e60f3aebb741^---0#0#1#-19%DVTDocumentLocation2@124"file://localhost/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/libForgeModule.a0000000000000000^1523"CreateUniversalBinary build/Release-iphoneos/libForgeModule.a normal armv7\ armv7s    cd /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    libtool -static /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/libForgeModule.a /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/libForgeModule.a -o /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/libForgeModule.a36"3126108C-2220-4E74-B01E-FEEA673E033F-
-b11935DC2-A128-412B-8621-1416C6DE443A
-
-CLibtool /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/libForgeModule.a normal armv7
-s401291791.846454
-e401291791.864777
-r1
-xLibtool
-x/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/libForgeModule.a
-xnormal
-xarmv7
-o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Libtool build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/libForgeModule.a normal armv7117"Libtool build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/libForgeModule.a normal armv77008d90f3aebb741^f565dd0f3aebb741^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--2130"Libtool build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/libForgeModule.a normal armv7    cd /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/Release-iphoneos -L/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/Flurry -L/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule -filelist /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/ForgeModule.LinkFileList -ObjC -framework SystemConfiguration -framework AssetsLibrary -framework CoreGraphics -framework UIKit -framework Foundation -framework ForgeCore -lFlurry_4.2.3 -o /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/libForgeModule.a36"9E656B9D-AD6B-46A8-9C72-EF9A44A8EA44-
-b11935DC2-A128-412B-8621-1416C6DE443A
-
-CLibtool /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/libForgeModule.a normal armv7s
-s401291791.846457
-e401291791.864809
-r1
-xLibtool
-x/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/libForgeModule.a
-xnormal
-xarmv7s
-o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Libtool build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/libForgeModule.a normal armv7s119"Libtool build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/libForgeModule.a normal armv7s01f7d80f3aebb741^2b69dd0f3aebb741^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--2135"Libtool build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/libForgeModule.a normal armv7s    cd /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7s -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/Release-iphoneos -L/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/Flurry -L/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule -filelist /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/ForgeModule.LinkFileList -ObjC -framework SystemConfiguration -framework AssetsLibrary -framework CoreGraphics -framework UIKit -framework Foundation -framework ForgeCore -lFlurry_4.2.3 -o /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/libForgeModule.a36"12C73EF7-036C-4B4A-85D5-2C06676687F3-
-b11935DC2-A128-412B-8621-1416C6DE443A
-
-CProcessPCH /var/folders/3g/vkmfzgzn1fb2v1_0msrrmqqr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/5.0-5A1412/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-cptpxygpctnvqxhapkdjpsdnaufm/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s401291791.170545
-e401291791.741962
-r1
-xProcessPCH
-x/var/folders/3g/vkmfzgzn1fb2v1_0msrrmqqr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/5.0-5A1412/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-cptpxygpctnvqxhapkdjpsdnaufm/ForgeModule-Prefix.pch.pch
-xForgeModule-Prefix.pch
-xnormal
-xarmv7s
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeCore.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeTask.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeLog.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeAppDelegate.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeApp.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/JSONKit.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeViewController.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeEventListener.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeFile.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeUtil.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/BorderControl.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/ALAsset+Data.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/UIImage+ResizeImage.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/NSData+Base64.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/NSFileManager+DirectoryLocations.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/NSURL+QueryString.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/Reachability.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/UIViewController+dismissViewControllerHelper.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/NSFileManager+DoNotBackup.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile ForgeModule-Prefix.pch311"ProcessPCH /var/folders/3g/vkmfzgzn1fb2v1_0msrrmqqr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/5.0-5A1412/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-cptpxygpctnvqxhapkdjpsdnaufm/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler70092c0f3aebb741^3df0bd0f3aebb741^---0#0#1#-19%DVTDocumentLocation2@107"file://localhost/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch0000000000000000^4831"ProcessPCH /var/folders/3g/vkmfzgzn1fb2v1_0msrrmqqr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/5.0-5A1412/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-cptpxygpctnvqxhapkdjpsdnaufm/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -miphoneos-version-min=4.3 -I/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/ForgeModule.hmap -I/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/include -I. -Ibuild -Ibuild/ForgeModule.build -Ibuild/Release-iphoneos -Ibuild/Release-iphonesimulator -Ibuild/ForgeModule.build/Release-iphoneos -Ibuild/ForgeModule.build/Release-iphonesimulator -Ibuild/ForgeModule.build/Release-iphoneos/ForgeModule.build -Ibuild/ForgeModule.build/Release-iphoneos/ForgeModuleResources.build -Ibuild/ForgeModule.build/Release-iphonesimulator/ForgeModule.build -Ibuild/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal -Ibuild/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal -Ibuild/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7 -Ibuild/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s -Ibuild/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386 -I/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources/armv7s -I/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources -F/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/Release-iphoneos -F/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule -F/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/.. --serialize-diagnostics /var/folders/3g/vkmfzgzn1fb2v1_0msrrmqqr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/5.0-5A1412/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-cptpxygpctnvqxhapkdjpsdnaufm/ForgeModule-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/3g/vkmfzgzn1fb2v1_0msrrmqqr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/5.0-5A1412/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-cptpxygpctnvqxhapkdjpsdnaufm/ForgeModule-Prefix.pch.d -c /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch -o /var/folders/3g/vkmfzgzn1fb2v1_0msrrmqqr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/5.0-5A1412/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-cptpxygpctnvqxhapkdjpsdnaufm/ForgeModule-Prefix.pch.pch36"16FF6863-16DC-4548-8BBB-27AEA3B303C6-
-b11935DC2-A128-412B-8621-1416C6DE443A
-
-CProcessPCH /var/folders/3g/vkmfzgzn1fb2v1_0msrrmqqr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/5.0-5A1412/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-ensbcayrdoqtuketydltqmoehlkn/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s401131070.702467
-e401131071.193899
-r1
-xProcessPCH
-x/var/folders/3g/vkmfzgzn1fb2v1_0msrrmqqr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/5.0-5A1412/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-ensbcayrdoqtuketydltqmoehlkn/ForgeModule-Prefix.pch.pch
-xForgeModule-Prefix.pch
-xnormal
-xarmv7s
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeCore.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeTask.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeLog.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeAppDelegate.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeApp.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/JSONKit.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeViewController.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeEventListener.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeFile.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeUtil.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/BorderControl.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/ALAsset+Data.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/UIImage+ResizeImage.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/NSData+Base64.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/NSFileManager+DirectoryLocations.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/NSURL+QueryString.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/Reachability.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/UIViewController+dismissViewControllerHelper.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/NSFileManager+DoNotBackup.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile ForgeModule-Prefix.pch311"ProcessPCH /var/folders/3g/vkmfzgzn1fb2v1_0msrrmqqr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/5.0-5A1412/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-ensbcayrdoqtuketydltqmoehlkn/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilerae2db43ec6e8b741^00a9313fc6e8b741^---0#0#1#-19%DVTDocumentLocation2@107"file://localhost/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch0000000000000000^4036"ProcessPCH /var/folders/3g/vkmfzgzn1fb2v1_0msrrmqqr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/5.0-5A1412/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-ensbcayrdoqtuketydltqmoehlkn/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -miphoneos-version-min=4.3 -I/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/ForgeModule.hmap -I/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/include -I. -I/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources/armv7s -I/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources -F/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/Release-iphoneos -F/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule -F/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/.. --serialize-diagnostics /var/folders/3g/vkmfzgzn1fb2v1_0msrrmqqr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/5.0-5A1412/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-ensbcayrdoqtuketydltqmoehlkn/ForgeModule-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/3g/vkmfzgzn1fb2v1_0msrrmqqr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/5.0-5A1412/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-ensbcayrdoqtuketydltqmoehlkn/ForgeModule-Prefix.pch.d -c /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch -o /var/folders/3g/vkmfzgzn1fb2v1_0msrrmqqr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/5.0-5A1412/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-ensbcayrdoqtuketydltqmoehlkn/ForgeModule-Prefix.pch.pch36"A756C99D-E3F0-4ABD-A008-1459F2253237-
-bC5BEAD48-4717-46F7-91F2-5D3EF6426C00
-
-CProcessPCH /var/folders/3g/vkmfzgzn1fb2v1_0msrrmqqr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/5.0-5A1412/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-frkscdoslfmgeieyogdhojqijyew/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s401291791.169033
-e401291791.743893
-r1
-xProcessPCH
-x/var/folders/3g/vkmfzgzn1fb2v1_0msrrmqqr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/5.0-5A1412/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-frkscdoslfmgeieyogdhojqijyew/ForgeModule-Prefix.pch.pch
-xForgeModule-Prefix.pch
-xnormal
-xarmv7
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeCore.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeTask.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeLog.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeAppDelegate.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeApp.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/JSONKit.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeViewController.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeEventListener.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeFile.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeUtil.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/BorderControl.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/ALAsset+Data.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/UIImage+ResizeImage.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/NSData+Base64.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/NSFileManager+DirectoryLocations.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/NSURL+QueryString.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/Reachability.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/UIViewController+dismissViewControllerHelper.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/NSFileManager+DoNotBackup.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile ForgeModule-Prefix.pch310"ProcessPCH /var/folders/3g/vkmfzgzn1fb2v1_0msrrmqqr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/5.0-5A1412/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-frkscdoslfmgeieyogdhojqijyew/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler46b62b0f3aebb741^8f70be0f3aebb741^---0#0#1#-19%DVTDocumentLocation2@107"file://localhost/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch0000000000000000^4828"ProcessPCH /var/folders/3g/vkmfzgzn1fb2v1_0msrrmqqr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/5.0-5A1412/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-frkscdoslfmgeieyogdhojqijyew/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -miphoneos-version-min=4.3 -I/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/ForgeModule.hmap -I/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/include -I. -Ibuild -Ibuild/ForgeModule.build -Ibuild/Release-iphoneos -Ibuild/Release-iphonesimulator -Ibuild/ForgeModule.build/Release-iphoneos -Ibuild/ForgeModule.build/Release-iphonesimulator -Ibuild/ForgeModule.build/Release-iphoneos/ForgeModule.build -Ibuild/ForgeModule.build/Release-iphoneos/ForgeModuleResources.build -Ibuild/ForgeModule.build/Release-iphonesimulator/ForgeModule.build -Ibuild/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal -Ibuild/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal -Ibuild/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7 -Ibuild/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s -Ibuild/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386 -I/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources/armv7 -I/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources -F/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/Release-iphoneos -F/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule -F/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/.. --serialize-diagnostics /var/folders/3g/vkmfzgzn1fb2v1_0msrrmqqr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/5.0-5A1412/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-frkscdoslfmgeieyogdhojqijyew/ForgeModule-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/3g/vkmfzgzn1fb2v1_0msrrmqqr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/5.0-5A1412/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-frkscdoslfmgeieyogdhojqijyew/ForgeModule-Prefix.pch.d -c /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch -o /var/folders/3g/vkmfzgzn1fb2v1_0msrrmqqr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/5.0-5A1412/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-frkscdoslfmgeieyogdhojqijyew/ForgeModule-Prefix.pch.pch36"6481FC6F-46BA-4E71-9602-FC231D3FD831-
-b11935DC2-A128-412B-8621-1416C6DE443A
-
-CProcessPCH /var/folders/3g/vkmfzgzn1fb2v1_0msrrmqqr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/5.0-5A1412/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-heteuspxeevzazcyltotqcmcqddj/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s401131070.701052
-e401131071.193376
-r1
-xProcessPCH
-x/var/folders/3g/vkmfzgzn1fb2v1_0msrrmqqr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/5.0-5A1412/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-heteuspxeevzazcyltotqcmcqddj/ForgeModule-Prefix.pch.pch
-xForgeModule-Prefix.pch
-xnormal
-xarmv7
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeCore.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeTask.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeLog.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeAppDelegate.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeApp.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/JSONKit.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeViewController.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeEventListener.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeFile.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeUtil.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/BorderControl.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/ALAsset+Data.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/UIImage+ResizeImage.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/NSData+Base64.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/NSFileManager+DirectoryLocations.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/NSURL+QueryString.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/Reachability.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/UIViewController+dismissViewControllerHelper.h
-d/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeCore.framework/Headers/NSFileManager+DoNotBackup.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile ForgeModule-Prefix.pch310"ProcessPCH /var/folders/3g/vkmfzgzn1fb2v1_0msrrmqqr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/5.0-5A1412/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-heteuspxeevzazcyltotqcmcqddj/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler1dcbb33ec6e8b741^c77f313fc6e8b741^---0#0#1#-19%DVTDocumentLocation2@107"file://localhost/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch0000000000000000^4033"ProcessPCH /var/folders/3g/vkmfzgzn1fb2v1_0msrrmqqr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/5.0-5A1412/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-heteuspxeevzazcyltotqcmcqddj/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -miphoneos-version-min=4.3 -I/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/ForgeModule.hmap -I/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/include -I. -I/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources/armv7 -I/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources -F/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/Release-iphoneos -F/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule -F/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/.. --serialize-diagnostics /var/folders/3g/vkmfzgzn1fb2v1_0msrrmqqr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/5.0-5A1412/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-heteuspxeevzazcyltotqcmcqddj/ForgeModule-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/3g/vkmfzgzn1fb2v1_0msrrmqqr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/5.0-5A1412/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-heteuspxeevzazcyltotqcmcqddj/ForgeModule-Prefix.pch.d -c /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch -o /var/folders/3g/vkmfzgzn1fb2v1_0msrrmqqr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/5.0-5A1412/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-heteuspxeevzazcyltotqcmcqddj/ForgeModule-Prefix.pch.pch36"F0CA6442-CE32-430D-81A0-9E62C7D1CD02-
-bC5BEAD48-4717-46F7-91F2-5D3EF6426C00
-
-CProcessPCH /var/folders/3g/vkmfzgzn1fb2v1_0msrrmqqr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ForgeModule-Prefix-cooqtplwxyxcvmalkbthtluskumh/ForgeModule-Prefix.pch.pth ForgeModule-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s398180794.958214
-e398180795.223212
-r1
-xProcessPCH
-x/var/folders/3g/vkmfzgzn1fb2v1_0msrrmqqr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ForgeModule-Prefix-cooqtplwxyxcvmalkbthtluskumh/ForgeModule-Prefix.pch.pth
-xForgeModule-Prefix.pch
-xnormal
-xarmv7
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile ForgeModule-Prefix.pch6bbbf5bac1bbb741^c42339bbc1bbb741^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch0000000000000000^3982"ProcessPCH /var/folders/3g/vkmfzgzn1fb2v1_0msrrmqqr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ForgeModule-Prefix-cooqtplwxyxcvmalkbthtluskumh/ForgeModule-Prefix.pch.pth ForgeModule-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/local/share/python:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/MacGPG2/bin:/Users/james/.rvm/bin:/Applications/android-sdk-macosx/platform-tools:/Users/james/.bin:/usr/local/go/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -miphoneos-version-min=4.3 -I/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/ForgeModule.hmap -I/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/include -I. -I/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources/armv7 -I/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources -F/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/Release-iphoneos -F/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule -F/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/.. --serialize-diagnostics /var/folders/3g/vkmfzgzn1fb2v1_0msrrmqqr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ForgeModule-Prefix-cooqtplwxyxcvmalkbthtluskumh/ForgeModule-Prefix.pch.dia -c /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch -o /var/folders/3g/vkmfzgzn1fb2v1_0msrrmqqr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ForgeModule-Prefix-cooqtplwxyxcvmalkbthtluskumh/ForgeModule-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/3g/vkmfzgzn1fb2v1_0msrrmqqr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ForgeModule-Prefix-cooqtplwxyxcvmalkbthtluskumh/ForgeModule-Prefix.pch.d36"1B67DDD1-5E46-45A7-B387-834E6141FC25-
-
-CProcessPCH /var/folders/3g/vkmfzgzn1fb2v1_0msrrmqqr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ForgeModule-Prefix-dhscipvdbbadrmcfyigbunivbvlq/ForgeModule-Prefix.pch.pth ForgeModule-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s398180794.958212
-e398180795.223621
-r1
-xProcessPCH
-x/var/folders/3g/vkmfzgzn1fb2v1_0msrrmqqr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ForgeModule-Prefix-dhscipvdbbadrmcfyigbunivbvlq/ForgeModule-Prefix.pch.pth
-xForgeModule-Prefix.pch
-xnormal
-xarmv7s
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile ForgeModule-Prefix.pchfad0f5bac1bbb741^104139bbc1bbb741^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch0000000000000000^3985"ProcessPCH /var/folders/3g/vkmfzgzn1fb2v1_0msrrmqqr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ForgeModule-Prefix-dhscipvdbbadrmcfyigbunivbvlq/ForgeModule-Prefix.pch.pth ForgeModule-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/local/share/python:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/MacGPG2/bin:/Users/james/.rvm/bin:/Applications/android-sdk-macosx/platform-tools:/Users/james/.bin:/usr/local/go/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -miphoneos-version-min=4.3 -I/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/ForgeModule.hmap -I/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/include -I. -I/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources/armv7s -I/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources -F/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/Release-iphoneos -F/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule -F/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/.. --serialize-diagnostics /var/folders/3g/vkmfzgzn1fb2v1_0msrrmqqr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ForgeModule-Prefix-dhscipvdbbadrmcfyigbunivbvlq/ForgeModule-Prefix.pch.dia -c /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch -o /var/folders/3g/vkmfzgzn1fb2v1_0msrrmqqr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ForgeModule-Prefix-dhscipvdbbadrmcfyigbunivbvlq/ForgeModule-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/3g/vkmfzgzn1fb2v1_0msrrmqqr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ForgeModule-Prefix-dhscipvdbbadrmcfyigbunivbvlq/ForgeModule-Prefix.pch.d36"B5BA7E9C-C7BE-4AF1-8E4F-C9A80D1D0E2A-
-
