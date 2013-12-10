@@ -1,22 +1,0 @@
-TForgeModuleResources
-v6
-r1
-cCheck dependencies
-cTouch /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/plugin.bundle
-
-N/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/plugin.bundle
-t1379438271
-s68
-
-CCheck dependencies
-r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies7bdbc83fc6e8b741^6554c93fc6e8b741^---0#1#1#--18"Check dependencies36"0B7A905F-7765-4600-8F16-141CE99A407C-
-
-CTouch /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/plugin.bundle
-s398180795.979960
-e398180795.987803
-r1
-xTouch
-x/Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/plugin.bundle
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Touch /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/plugin.bundleda3bfbbbc1bbb741^65e0fcbbc1bbb741^---0#0#0#--1343"Touch build/Release-iphoneos/plugin.bundle    cd /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/local/share/python:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/MacGPG2/bin:/Users/james/.rvm/bin:/Applications/android-sdk-macosx/platform-tools:/Users/james/.bin:/usr/local/go/bin"    /usr/bin/touch -c /Users/james/Code/modules/flurry/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/plugin.bundle36"6E952268-70B4-4FF0-A68E-AFCB6B6DB708-
-
