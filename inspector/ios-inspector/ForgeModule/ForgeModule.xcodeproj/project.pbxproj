@@ -7,12 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1A91B05C17BBAFF500E3FA73 /* libFlurry_4.2.3.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1A91B05B17BBAFF500E3FA73 /* libFlurry_4.2.3.a */; };
+		0085EB6218B906E300EC0893 /* libFlurry_4.3.2.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0085EB6118B906E300EC0893 /* libFlurry_4.3.2.a */; };
 		71498B4416B9356A0002AA78 /* flurry_API.m in Sources */ = {isa = PBXBuildFile; fileRef = 71498B4116B9356A0002AA78 /* flurry_API.m */; };
 		71498B4516B9356A0002AA78 /* flurry_EventListener.m in Sources */ = {isa = PBXBuildFile; fileRef = 71498B4316B9356A0002AA78 /* flurry_EventListener.m */; };
 		B31B6D5215C13D5200854074 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B31B6D5115C13D5200854074 /* Foundation.framework */; };
 		B31B6D6F15C1467100854074 /* CoreFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B31B6D6E15C1467100854074 /* CoreFoundation.framework */; };
-		B37C3A5D162717A200B50A60 /* ForgeCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B37C3A5C162717A200B50A60 /* ForgeCore.framework */; };
 		B3FC51F815C151E5003574D9 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B3FC51F715C151E5003574D9 /* UIKit.framework */; };
 		B3FC51FF15C1523D003574D9 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B3FC51FE15C1523D003574D9 /* CoreGraphics.framework */; };
 		B3FC524215C177EA003574D9 /* AssetsLibrary.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B3FC524115C177EA003574D9 /* AssetsLibrary.framework */; };
@@ -20,8 +19,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0085EB6118B906E300EC0893 /* libFlurry_4.3.2.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libFlurry_4.3.2.a; sourceTree = "<group>"; };
 		1A91B05A17BBAFF500E3FA73 /* Flurry.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Flurry.h; sourceTree = "<group>"; };
-		1A91B05B17BBAFF500E3FA73 /* libFlurry_4.2.3.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libFlurry_4.2.3.a; sourceTree = "<group>"; };
 		71498B4016B9356A0002AA78 /* flurry_API.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = flurry_API.h; sourceTree = "<group>"; };
 		71498B4116B9356A0002AA78 /* flurry_API.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = flurry_API.m; sourceTree = "<group>"; };
 		71498B4216B9356A0002AA78 /* flurry_EventListener.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = flurry_EventListener.h; sourceTree = "<group>"; };
@@ -30,7 +29,6 @@
 		B31B6D5115C13D5200854074 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		B31B6D6D15C1467100854074 /* plugin.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = plugin.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
 		B31B6D6E15C1467100854074 /* CoreFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreFoundation.framework; path = System/Library/Frameworks/CoreFoundation.framework; sourceTree = SDKROOT; };
-		B37C3A5C162717A200B50A60 /* ForgeCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ForgeCore.framework; path = ../ForgeCore.framework; sourceTree = "<group>"; };
 		B3FC51F715C151E5003574D9 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		B3FC51FE15C1523D003574D9 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		B3FC524115C177EA003574D9 /* AssetsLibrary.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AssetsLibrary.framework; path = System/Library/Frameworks/AssetsLibrary.framework; sourceTree = SDKROOT; };
@@ -47,8 +45,7 @@
 				B3FC51FF15C1523D003574D9 /* CoreGraphics.framework in Frameworks */,
 				B3FC51F815C151E5003574D9 /* UIKit.framework in Frameworks */,
 				B31B6D5215C13D5200854074 /* Foundation.framework in Frameworks */,
-				B37C3A5D162717A200B50A60 /* ForgeCore.framework in Frameworks */,
-				1A91B05C17BBAFF500E3FA73 /* libFlurry_4.2.3.a in Frameworks */,
+				0085EB6218B906E300EC0893 /* libFlurry_4.3.2.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -77,8 +74,8 @@
 		71498B4616B9358D0002AA78 /* libflurry */ = {
 			isa = PBXGroup;
 			children = (
+				0085EB6118B906E300EC0893 /* libFlurry_4.3.2.a */,
 				1A91B05A17BBAFF500E3FA73 /* Flurry.h */,
-				1A91B05B17BBAFF500E3FA73 /* libFlurry_4.2.3.a */,
 			);
 			name = libflurry;
 			sourceTree = "<group>";
@@ -105,7 +102,6 @@
 		B31B6D5015C13D5200854074 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				B37C3A5C162717A200B50A60 /* ForgeCore.framework */,
 				B3FC524715C17B2C003574D9 /* SystemConfiguration.framework */,
 				B3FC524115C177EA003574D9 /* AssetsLibrary.framework */,
 				B3FC51FE15C1523D003574D9 /* CoreGraphics.framework */,

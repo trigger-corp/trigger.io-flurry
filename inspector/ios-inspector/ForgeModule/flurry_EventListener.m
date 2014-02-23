@@ -12,6 +12,11 @@
 @implementation flurry_EventListener
 
 + (void)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
+    if ([[[ForgeApp sharedApp] configForPlugin:@"flurry"] objectForKey:@"debug"] != nil) {
+        [Flurry setDebugLogEnabled:[[[[ForgeApp sharedApp] configForPlugin:@"flurry"] objectForKey:@"debug"] boolValue]];
+    } else {
+        [Flurry setDebugLogEnabled:NO];
+    }
     [Flurry startSession:[[[ForgeApp sharedApp] configForPlugin:@"flurry"] objectForKey:(@"ios_api_key")]];
 }
 

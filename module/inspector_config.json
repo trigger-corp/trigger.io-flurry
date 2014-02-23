@@ -4,7 +4,8 @@
 			"version": "2.0",
 			"config": {
 				"android_api_key": "VMGKY8WMY84PCSR38PRM", 
-				"ios_api_key": "SR6G3ZW4QGMRVNJHK92S"
+				"ios_api_key": "SR6G3ZW4QGMRVNJHK92S",
+				"debug": true
 			}
 		}
 	}
