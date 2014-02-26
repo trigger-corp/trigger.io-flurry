@@ -11,6 +11,11 @@
 			"description": "iOS API key provided by Flurry",
 			"required": false,
 			"type": "string"
+		},
+		"debug": {
+			"description": "true to enable or false to disable the internal logging of Flurry.",
+			"required": false,
+			"type": "boolean"
 		}
 	}
 }

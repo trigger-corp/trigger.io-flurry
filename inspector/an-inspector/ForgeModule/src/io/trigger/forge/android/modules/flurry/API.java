@@ -10,6 +10,7 @@ import java.util.Map.Entry;
 
 import com.flurry.android.Constants;
 import com.flurry.android.FlurryAgent;
+import com.flurry.android.FlurryAgent;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 
@@ -41,7 +42,7 @@ public class API {
 	public static void setDemographics(final ForgeTask task, @ForgeParam("demographics") final JsonObject demographics) {
 		ForgeLog.d("Flurry setDemographics: "+demographics);
 		if (demographics.has("user_id")) {
-				FlurryAgent.setUserId(demographics.get("user_id").getAsString());
+			FlurryAgent.setUserId(demographics.get("user_id").getAsString());
 		}
 		if (demographics.has("age")) {
 			FlurryAgent.setAge(demographics.get("age").getAsInt());
@@ -62,7 +63,7 @@ public class API {
 	public static void setLocation(final ForgeTask task, @ForgeParam("coords") final JsonObject coords) {
 		ForgeLog.d("Flurry setLocation: "+coords);
 		if (coords.has("latitude") && coords.has("longitude") && coords.has("accuracy")) {
-				FlurryAgent.setLocation(coords.get("latitude").getAsFloat(), coords.get("longitude").getAsFloat());
+			FlurryAds.setLocation(coords.get("latitude").getAsFloat(), coords.get("longitude").getAsFloat());
 		} else {
 			task.error("Missing parameters - please refer to documentation", "BAD_INPUT", null);
 			return;
