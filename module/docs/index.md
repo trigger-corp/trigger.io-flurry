@@ -12,12 +12,15 @@ Android API Key,
 iOS API Key
 :	Platform specific API keys provided by Flurry.
 
-By just including this configuration in your app config, basic app
-analytics information - such as sessions, active users and new users -
-will be available in your Flurry dashboard.
+	By just including this configuration in your app config, basic app
+	analytics information - such as sessions, active users and new users -
+	will be available in your Flurry dashboard.
 
-For more advanced analytics, you can use the API methods described
-below.
+	For more advanced analytics, you can use the API methods described
+	below.
+
+Debug
+:	Enable the Flurry SDK's debug output (Optional)
 
 ##API
 
