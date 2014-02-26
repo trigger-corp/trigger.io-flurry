@@ -1,9 +1,9 @@
 [
-{
-    "do": {
-        "add_ios_system_framework": {
-            "framework": "Security.framework"
-        }
-    }
-}
+	{
+		"do": {
+			"add_ios_system_framework": {
+				"framework": "Security.framework"
+			}
+		}
+	}
 ]
