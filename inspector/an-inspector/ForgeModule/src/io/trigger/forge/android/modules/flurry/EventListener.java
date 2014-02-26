@@ -3,6 +3,8 @@ package io.trigger.forge.android.modules.flurry;
 import io.trigger.forge.android.core.ForgeApp;
 import io.trigger.forge.android.core.ForgeEventListener;
 
+import android.util.Log;
+
 import com.flurry.android.FlurryAgent;
 
 public class EventListener extends ForgeEventListener {

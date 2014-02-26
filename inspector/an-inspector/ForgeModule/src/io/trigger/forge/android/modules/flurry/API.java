@@ -9,7 +9,7 @@ import java.util.Map;
 import java.util.Map.Entry;
 
 import com.flurry.android.Constants;
-import com.flurry.android.FlurryAgent;
+import com.flurry.android.FlurryAds;
 import com.flurry.android.FlurryAgent;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
