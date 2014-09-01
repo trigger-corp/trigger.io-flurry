@@ -1,8 +1,8 @@
 {
-    "changes": "* Updated to Flurry Android SDK version 3.3.4.\n* Updated to Flurry iOS SDK version 4.3.2.\n* Added a boolean debug property to the config schema to enable or disable the internal logging of Flurry.", 
+    "changes": "* Support arm64 devices running iOS 8\n* Updated Flurry iOS SDK to 5.3.0", 
     "description": "Track usage of your app with Flurry.\n\nThe flurry module integrates your app with the Flurry SDK and allows you access to various SDK methods to take advantage of Flurry's app analytics.", 
     "min_platform_version": "v2.1.0", 
     "namespace": "flurry", 
-    "platform_version": "v2.1.0", 
-    "version": "2.4"
+    "platform_version": "v2.2.0", 
+    "version": "2.5"
 }
