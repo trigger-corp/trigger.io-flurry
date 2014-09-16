@@ -77,6 +77,19 @@ if (forge.is.mobile()) {
 				}
 		);
 	});
+	asyncTest("setDemographics user_id", 1, function () {
+		forge.flurry.setDemographics({user_id: "someuserid"},
+				function () {
+					ok(true);
+					start();
+				},
+				function (err) {
+					ok(false);
+					forge.logging.error('setDemographics error: '+JSON.stringify(err));
+					start();
+				}
+		);
+	});
 	asyncTest("setDemographics gender", 1, function () {
 		forge.flurry.setDemographics({gender: "m"},
 				function () {
@@ -90,8 +103,21 @@ if (forge.is.mobile()) {
 				}
 		);
 	});
-	asyncTest("setDemographics gender and age", 1, function () {
-		forge.flurry.setDemographics({gender: "m", age: 28},
+	asyncTest("setDemographics age", 1, function () {
+		forge.flurry.setDemographics({age: 23},
+				function () {
+					ok(true);
+					start();
+				},
+				function (err) {
+					ok(false);
+					forge.logging.error('setDemographics error: '+JSON.stringify(err));
+					start();
+				}
+		);
+	});
+	asyncTest("setDemographics user_id, gender and age", 1, function () {
+		forge.flurry.setDemographics({user_id: "someotheruserid", gender: "m", age: 28},
 				function () {
 					ok(true);
 					start();

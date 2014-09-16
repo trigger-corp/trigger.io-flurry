@@ -27,14 +27,13 @@
 
 + (void)setDemographics:(ForgeTask*)task demographics:(NSDictionary*)demographics {
     [ForgeLog d:[NSString stringWithFormat:@"Flurry setDemographics: %@", demographics]];
-    if ([demographics objectForKey:@"user_id"]) {
+    if ([[demographics objectForKey:@"user_id"] isKindOfClass:[NSString class]]) {
         [Flurry setUserID:[demographics objectForKey:@"user_id"]];
     }
-    if ([demographics objectForKey:@"age"]) {
+    if ([[demographics objectForKey:@"age"] isKindOfClass:[NSNumber class]]) {
         [Flurry setAge:[[demographics objectForKey:@"age"] intValue]];
     }
-    
-    if ([demographics objectForKey:@"gender"]) {
+    if ([[demographics objectForKey:@"gender"] isKindOfClass:[NSString class]]) {
         if ([[[demographics objectForKey:@"gender"] description] isEqualToString:@"m"] ||
             [[[demographics objectForKey:@"gender"] description] isEqualToString:@"f"]) {
             [Flurry setGender:[demographics objectForKey:@"gender"]];
