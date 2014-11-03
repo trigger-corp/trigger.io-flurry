@@ -1,8 +1,8 @@
 {
-    "changes": "* Handle empty values in flurry.setDemographics() parameters correctly", 
+    "changes": "* Updated iOS SDK to v5.4.0\n* Updated Android SDK to v4.2.0\n* Added proguard rules to not obfusticate com.flurry.*", 
     "description": "Track usage of your app with Flurry.\n\nThe flurry module integrates your app with the Flurry SDK and allows you access to various SDK methods to take advantage of Flurry's app analytics.", 
     "min_platform_version": "v2.1.0", 
     "namespace": "flurry", 
     "platform_version": "v2.2.0", 
-    "version": "2.6"
+    "version": "2.7"
 }
